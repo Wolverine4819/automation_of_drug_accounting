@@ -1,0 +1,11 @@
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\bin\Debug\Database.mdf
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\bin\Debug\Database_log.ldf
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\bin\Debug\automation of drug accounting-WF(csharp).exe.config
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\bin\Debug\automation of drug accounting-WF(csharp).exe
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\bin\Debug\automation of drug accounting-WF(csharp).pdb
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\obj\Debug\automation of drug accounting-WF(csharp).csprojAssemblyReference.cache
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\obj\Debug\automation_of_drug_accounting_WF_csharp_.Form1.resources
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\obj\Debug\automation_of_drug_accounting_WF_csharp_.Properties.Resources.resources
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\obj\Debug\automation of drug accounting-WF(csharp).csproj.GenerateResource.cache
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\obj\Debug\automation of drug accounting-WF(csharp).exe
+C:\Users\Apoca\Desktop\automation of drug accounting-WF(csharp)\automation of drug accounting-WF(csharp)\obj\Debug\automation of drug accounting-WF(csharp).pdb
