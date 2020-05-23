@@ -24,7 +24,13 @@ namespace automation_of_drug_accounting_WF_csharp_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //code Kosenko
+           if (textBox1.Text == "admin" && textBox2.Text == "admin")
+            {
+                Form1 s = new Form1();
+                s.Show();
+                this.Hide();
+            }
+    
 
         }
 
