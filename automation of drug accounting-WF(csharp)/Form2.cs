@@ -36,6 +36,12 @@ namespace automation_of_drug_accounting_WF_csharp_
                 s.Show();
                 this.Hide();
             }
+            else
+            {
+                textBox1.Text = "";
+                textBox2.Text = "";
+                MessageBox.Show("Не верный логин или пароль!");
+            }
 
 
         }
