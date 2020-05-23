@@ -30,7 +30,13 @@ namespace automation_of_drug_accounting_WF_csharp_
                 s.Show();
                 this.Hide();
             }
-    
+    else if (textBox1.Text == "user" && textBox2.Text == "user")
+            {
+                Form3 s = new Form3();
+                s.Show();
+                this.Hide();
+            }
+
 
         }
 
